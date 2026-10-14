@@ -1,0 +1,13 @@
+{
+  "asset": "assets/style-reference.png",
+  "role": "Canonical style reference explicitly selected by the user",
+  "origin": "AI-generated image selected by the user during development",
+  "editing": "None; copied byte-for-byte from the selected original",
+  "dimensions": [
+    1086,
+    1448
+  ],
+  "sha256": "52caac30c6def83c26830dbc42b08696db96c7bfe7a3b0a5652a88e9a46025d2",
+  "original_generation_prompt": "references/original-generation-prompt.txt",
+  "style_instruction": "Keep this exact reference as the default; do not substitute a regenerated example or independently change face/hair stylization."
+}

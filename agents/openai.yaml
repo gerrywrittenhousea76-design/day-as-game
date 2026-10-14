@@ -1,0 +1,4 @@
+interface:
+  display_name: "我的一天 · 旧游戏图鉴"
+  short_description: "六问整理你的一天，生成旧游戏风封面与日常图片，支持照片定制主角"
+  default_prompt: "用 $day-as-game 把我的一天做成旧游戏风封面和六张日常图片，先询问性别与是否定制人物。"
