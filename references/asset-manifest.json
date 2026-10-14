@@ -1,6 +1,6 @@
 {
   "asset": "assets/style-reference.png",
-  "role": "Canonical style reference explicitly selected by the user",
+  "role": "Canonical style reference and default character identity explicitly selected by the user",
   "origin": "AI-generated image selected by the user during development",
   "editing": "None; copied byte-for-byte from the selected original",
   "dimensions": [
@@ -9,5 +9,6 @@
   ],
   "sha256": "52caac30c6def83c26830dbc42b08696db96c7bfe7a3b0a5652a88e9a46025d2",
   "original_generation_prompt": "references/original-generation-prompt.txt",
-  "style_instruction": "Keep this exact reference as the default; do not substitute a regenerated example or independently change face/hair stylization."
+  "style_instruction": "Keep this exact reference as the default; do not substitute a regenerated example or independently change face/hair stylization.",
+  "identity_instruction": "Keep the same original person: face shape and facial proportions, blond fluffy hair, browline glasses, thin gold necklace. Change identity only when the user explicitly chooses a custom person."
 }
